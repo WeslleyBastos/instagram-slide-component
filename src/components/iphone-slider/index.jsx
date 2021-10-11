@@ -42,7 +42,7 @@ const IphoneSlider = () => {
                     </div>
 
                     <div className='post'>
-                        <img src={rir1} height="270" width="268" alt="" />
+                        <img src={rir1} height="270" width="280" alt="" />
                     <span><img src={likeShareComment} alt="subs" className='subs'/></span> 
                     <span> <img src={saveIcon} alt="save" className='save'/>  </span>
                     </div>

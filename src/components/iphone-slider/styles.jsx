@@ -98,7 +98,7 @@ export const InstaFrame = styled.div`
         .post{
 
             img{
-                margin: 13px 0 0 16px;
+                margin: 13px 0 0 10px;
             }
 
             .subs{
