@@ -17,5 +17,7 @@ Feito com:
 
 . Instagram-slider
   https://www.npmjs.com/package/react-instagram-zoom-slider
+  
+. React-Icons
 
 . Styled-components
