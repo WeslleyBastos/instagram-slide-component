@@ -4,6 +4,9 @@ import iphoneFrame from '../../assets/iphoneFrame.png'
 
 export const MobileFrame = styled.div`
     margin: 0 auto;
+    margin-top: 1rem;
+    overflow-x: hidden;
+    overflow-y: hidden;
     padding:0;
     box-sizing: border-box;
     width: 301px;
@@ -18,7 +21,6 @@ export const MobileFrame = styled.div`
 export const InstaFrame = styled.div`
     
     .top{
-       
         display: flex;
         justify-content: space-between;
 
