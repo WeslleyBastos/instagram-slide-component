@@ -16,49 +16,49 @@ class Porra extends Component {
     <div class="slider">
         <div class="slide-track">
             <div class="slide">
-        <img src={rir1} height="300" width="300" alt="" />
+          <img src={rir1} height="300" width="300" alt="" />
+          </div>
+          <div class="slide">
+          <img src={rir2} height="300" width="300" alt="" />
+          </div>
+          <div class="slide">
+          <img src={rir3} height="300" width="300" alt="" />
+          </div>
+          <div class="slide">
+          <img src={rir4} height="300" width="300" alt="" />
+          </div>
+          <div class="slide">
+          <img src={rir5} height="300" width="300"  alt="" />
+          </div>
+          <div class="slide">
+          <img src={rir6} height="300" width="300" alt="" />
+          </div>
+          <div class="slide">
+          <img src={rir2} height="300" width="300" alt="" />
+          </div>
+          <div class="slide">
+          <img src={rir4} height="300" width="300" alt=""  />
+          </div>
+          <div class="slide">
+          <img src={rir1} height="300" width="300" alt=""  />
+          </div>
+          <div class="slide">
+          <img src={rir3} height="300" width="300" alt=""  />
+          </div>
+          <div class="slide">
+          <img src={rir5} height="300" width="300" alt=""  />
+          </div>
+          <div class="slide">
+          <img src={rir2} height="300" width="300" alt=""  />
+          </div>
+          <div class="slide">
+          <img src={rir6} height="300" width="300" alt=""  />
+          </div>
+          <div class="slide">
+          <img src={rir1} height="300" width="300" alt=""  />
         </div>
-        <div class="slide">
-        <img src={rir2} height="300" width="300" alt="" />
-        </div>
-        <div class="slide">
-        <img src={rir3} height="300" width="300" alt="" />
-        </div>
-        <div class="slide">
-        <img src={rir4} height="300" width="300" alt="" />
-        </div>
-        <div class="slide">
-        <img src={rir5} height="300" width="300"  alt="" />
-        </div>
-        <div class="slide">
-        <img src={rir6} height="300" width="300" alt="" />
-        </div>
-        <div class="slide">
-        <img src={rir2} height="300" width="300" alt="" />
-        </div>
-        <div class="slide">
-        <img src={rir4} height="300" width="300" alt=""  />
-        </div>
-        <div class="slide">
-        <img src={rir1} height="300" width="300" alt=""  />
-        </div>
-        <div class="slide">
-        <img src={rir3} height="300" width="300" alt=""  />
-        </div>
-        <div class="slide">
-        <img src={rir5} height="300" width="300" alt=""  />
-        </div>
-        <div class="slide">
-        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/5.png" height="300" width="300" alt="" />
-        </div>
-        <div class="slide">
-        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/6.png" height="300" width="300" alt="" />
-        </div>
-        <div class="slide">
-        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/7.png" height="300" width="300" alt="" />
-        </div>
-        </div>
-        </div>
+      </div>
+     </div>
        
       );
     }
