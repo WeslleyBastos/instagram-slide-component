@@ -6,6 +6,8 @@ tendo todas as suas imagens cambiaveis, valor de animação facilmente alterados
 
 Plus: já possui um código integravel para realizar slide do post central.
 
+Demo: https://instagram-slide-component.vercel.app/
+
 Feito com:
 . React.js
 
