@@ -9,7 +9,7 @@ import rir4 from '../../assets/rir4.png'
 import rir5 from '../../assets/rir5.png'
 import rir6 from '../../assets/rir6.png'
 
-class Porra extends Component {
+class Galery extends Component {
     render() {
       return (
 
@@ -63,7 +63,7 @@ class Porra extends Component {
       );
     }
   }
-  export default Porra
+  export default Galery
 
-  ReactDOM.render(<Porra />, document.getElementById("root"));
+  ReactDOM.render(<Galery />, document.getElementById("root"));
   

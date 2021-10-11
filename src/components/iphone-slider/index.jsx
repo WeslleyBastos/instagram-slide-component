@@ -16,14 +16,14 @@ import {AiFillSignal, AiOutlinePlusCircle, AiOutlineHeart} from 'react-icons/ai'
 
 // FUNCTIONAL IMPORTS
 import { MobileFrame, InstaFrame } from "./styles"
-import Porra from '../img-transition'
+import Galery from '../img-transition'
 
 
 const IphoneSlider = () => {
     
     return (
         <div>
-            <Porra/>
+            <Galery/>
             <MobileFrame>
                 <InstaFrame>
                     <div className='top'>
